@@ -1,0 +1,9 @@
+E:\Personal Projects\XamPOSWebApi\RecompildPOS.Models\bin\Debug\netcoreapp3.1\RecompildPOS.Models.deps.json
+E:\Personal Projects\XamPOSWebApi\RecompildPOS.Models\bin\Debug\netcoreapp3.1\RecompildPOS.Models.dll
+E:\Personal Projects\XamPOSWebApi\RecompildPOS.Models\bin\Debug\netcoreapp3.1\RecompildPOS.Models.pdb
+E:\Personal Projects\XamPOSWebApi\RecompildPOS.Models\obj\Debug\netcoreapp3.1\RecompildPOS.Models.csprojAssemblyReference.cache
+E:\Personal Projects\XamPOSWebApi\RecompildPOS.Models\obj\Debug\netcoreapp3.1\RecompildPOS.Models.AssemblyInfoInputs.cache
+E:\Personal Projects\XamPOSWebApi\RecompildPOS.Models\obj\Debug\netcoreapp3.1\RecompildPOS.Models.AssemblyInfo.cs
+E:\Personal Projects\XamPOSWebApi\RecompildPOS.Models\obj\Debug\netcoreapp3.1\RecompildPOS.Models.csproj.CoreCompileInputs.cache
+E:\Personal Projects\XamPOSWebApi\RecompildPOS.Models\obj\Debug\netcoreapp3.1\RecompildPOS.Models.dll
+E:\Personal Projects\XamPOSWebApi\RecompildPOS.Models\obj\Debug\netcoreapp3.1\RecompildPOS.Models.pdb

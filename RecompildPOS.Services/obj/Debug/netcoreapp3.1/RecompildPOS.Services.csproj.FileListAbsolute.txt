@@ -1,0 +1,12 @@
+E:\Personal Projects\XamPOSWebApi\RecompildPOS.Services\bin\Debug\netcoreapp3.1\RecompildPOS.Services.deps.json
+E:\Personal Projects\XamPOSWebApi\RecompildPOS.Services\bin\Debug\netcoreapp3.1\RecompildPOS.Services.dll
+E:\Personal Projects\XamPOSWebApi\RecompildPOS.Services\bin\Debug\netcoreapp3.1\RecompildPOS.Services.pdb
+E:\Personal Projects\XamPOSWebApi\RecompildPOS.Services\bin\Debug\netcoreapp3.1\RecompildPOS.Models.dll
+E:\Personal Projects\XamPOSWebApi\RecompildPOS.Services\bin\Debug\netcoreapp3.1\RecompildPOS.Models.pdb
+E:\Personal Projects\XamPOSWebApi\RecompildPOS.Services\obj\Debug\netcoreapp3.1\RecompildPOS.Services.csprojAssemblyReference.cache
+E:\Personal Projects\XamPOSWebApi\RecompildPOS.Services\obj\Debug\netcoreapp3.1\RecompildPOS.Services.AssemblyInfoInputs.cache
+E:\Personal Projects\XamPOSWebApi\RecompildPOS.Services\obj\Debug\netcoreapp3.1\RecompildPOS.Services.AssemblyInfo.cs
+E:\Personal Projects\XamPOSWebApi\RecompildPOS.Services\obj\Debug\netcoreapp3.1\RecompildPOS.Services.csproj.CoreCompileInputs.cache
+E:\Personal Projects\XamPOSWebApi\RecompildPOS.Services\obj\Debug\netcoreapp3.1\RecompildPOS.Services.csproj.CopyComplete
+E:\Personal Projects\XamPOSWebApi\RecompildPOS.Services\obj\Debug\netcoreapp3.1\RecompildPOS.Services.dll
+E:\Personal Projects\XamPOSWebApi\RecompildPOS.Services\obj\Debug\netcoreapp3.1\RecompildPOS.Services.pdb
